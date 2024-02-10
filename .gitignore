@@ -1,0 +1,38 @@
+# CMake build directory
+build/
+
+# Compiled binaries
+bin/
+lib/
+out/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Testing/
+
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.out
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Ubuntu
+*.deb
+*.udeb
+*.snap
+
+# Temporary files
+*.swp
+*.swo
